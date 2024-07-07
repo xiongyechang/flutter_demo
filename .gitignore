@@ -1,0 +1,61 @@
+# Dart & Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# Windows platform
+windows/
+
+# Linux platform
+linux/
+
+# macOS platform
+macos/
+
+# iOS platform
+ios/Pods
+ios/Runner.xcworkspace
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/.last_build_id
+ios/.symlinks
+ios/Flutter/Generated.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# Xcode
+**/xcuserdata/
+**/XcodePreviews/
+.idea/
+
+# Android platform
+android/.gradle
+android/app/debug
+android/app/release
+android/local.properties
+android/gradle.properties
+android/key.properties
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Operating System files
+.DS_Store
+*.swp
+*.lock
+*.log
+*.tmp
+
+# Others
+*.keystore
+*.jks
+.env
+*.bak
